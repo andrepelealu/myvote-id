@@ -1,0 +1,7 @@
+.Jumbotron{
+    background: url("/images/home-bg.jpg");
+    color: white;
+    background-size: cover;
+    min-height: 400px;
+    
+}
